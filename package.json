@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ljdr64/curso-asincronismo-js/issues"
   },
-  "homepage": "https://github.com/ljdr64/curso-asincronismo-js#readme"
+  "homepage": "https://github.com/ljdr64/curso-asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
